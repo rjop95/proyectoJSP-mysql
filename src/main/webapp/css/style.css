@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+
+
+.registro 
+{
+	float:right;
+}
+
+.container
+{
+	background: white;	
+}
+.header
+{
+	background: white;
+	color: black;
+	align-content: center;
+}
+
+h3
+{
+	color: black;
+}
+
+p
+{
+	background:lightgreen;
+}
+input
+{
+	color:red;
+}
+label
+{
+	color:red;
+}
+
+
